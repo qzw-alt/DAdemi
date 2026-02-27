@@ -178,10 +178,20 @@ memory/
 
 ---
 
-## 🔧 技术笔记
+## 🛡️ 备份策略（三重保险）
 
-- Token优化可节省75%
-- OpenClaw升级后需要特别留意记忆同步
+| 备份方式 | 频率 | 位置 | 状态 |
+|----------|------|------|------|
+| **GitHub** | 每天 23:30 自动 | https://github.com/qzw-alt/DAdemi | ✅ 已配置 |
+| **飞书云文档** | 每天 23:30 | 飞书云空间 | ✅ 定时任务 |
+| **本地备份** | 手动触发 | backup_*.md | ✅ 可用 |
+
+### GitHub 备份详情
+- **仓库**: qzw-alt/DAdemi
+- **自动任务**: DAdemi-GitHub-Backup
+- **执行时间**: 每天 23:30
+- **脚本位置**: `scripts/backup-to-github.ps1`
+- **首次推送**: 2026-02-28 (287 个文件)
 - **OpenClaw 配置踩坑记录** → 详见 `memory/踩坑_OpenClaw配置.md` ⭐
   - memory-lancedb-pro 插件问题
   - ClawHub 速率限制
