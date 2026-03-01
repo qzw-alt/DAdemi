@@ -1,0 +1,13 @@
+{
+  "version": 1,
+  "skills": {
+    "ai-notes-of-video": {
+      "version": "1.0.0",
+      "installedAt": 1772210828581
+    },
+    "ai-news-zh": {
+      "version": "1.0.0",
+      "installedAt": 1772210888396
+    }
+  }
+}
