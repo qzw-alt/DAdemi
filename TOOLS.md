@@ -27,4 +27,6 @@ Things like:
 ## API Keys
 
 - **Kimi API**: sk-kimi-7RcVUnWF8lTLCGmsu12Vanx11zGK87g4hsZqyyty68WEbuKCFlEUfC5ckIMv94eH
-- **Tavily API**: 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
+- **Tavily API**: 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
+  - ⚠️ **有使用限额，谨慎使用！**
+  - 每次搜索消耗配额，请节约使用
