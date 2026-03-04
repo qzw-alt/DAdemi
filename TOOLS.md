@@ -26,6 +26,8 @@ Things like:
 
 ## API Keys
 
+- **GitHub Token**: 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
+
 - **Kimi API**: sk-kimi-7RcVUnWF8lTLCGmsu12Vanx11zGK87g4hsZqyyty68WEbuKCFlEUfC5ckIMv94eH
 - **Tavily API**: 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
   - ⚠️ **有使用限额，谨慎使用！**
