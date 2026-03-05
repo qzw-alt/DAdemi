@@ -2,16 +2,26 @@
 
 > 发现时间：2026-03-05 来自伟烨推荐
 
-## 官方资源（⭐强烈推荐）
-- **Anthropic官方skills**: https://github.com/anthropics/skills
-  - 官方技能库，包含文档处理、企业工作流等
-  - 安装命令：`/plugin marketplace add anthropics/skills`
-  - 可安装：document-skills、example-skills
+## ⭐ 定时访问名单
 
-## 社区资源
-- **awesome-claude-agents**: https://github.com/Smaiil/awesome-claude-agents
-  - 33个专业Agents + 80+ Skills
-- **awesome-claude-skills**: https://github.com/shajith003/awesome-claude-skills
+### 1. skills.sh（技能目录）
+- **地址**: https://skills.sh
+- **描述**: The Open Agent Skills Ecosystem - Agent技能目录
+- **安装命令**: `npx skillsadd <owner/repo>`
+- **热门技能**:
+  - find-skills (vercel-labs)
+  - frontend-design (anthropics)
+  - marketing skills系列
+  - azure系列
+  - seo-audit, copywriting, content-strategy
+
+### 2. Anthropic官方skills
+- **地址**: https://github.com/anthropics/skills
+- **安装**: `/plugin marketplace add anthropics/skills`
+
+### 3. awesome-claude-agents
+- **地址**: https://github.com/Smaiil/awesome-claude-agents
+- **内容**: 33个专业Agents + 80+ Skills
 
 ## 资源概览
 - 33个专业Agents
