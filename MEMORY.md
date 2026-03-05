@@ -147,13 +147,17 @@
 
 | 备份方式 | 频率 | 位置 | 状态 |
 |----------|------|------|------|
-| GitHub | 每天 23:30 | https://github.com/qzw-alt/DAdemi | ✅ 需每周更新Token |
+| GitHub | 每天 23:30 + 重要更新 | https://github.com/qzw-alt/DAdemi | ✅ 需每周更新Token |
 | 飞书云文档 | 每天 23:30 | 飞书云空间 | ✅ 备用方案 |
 
 ### ⚠️ Token管理（重要！）
 - GitHub Token有效期约1周
 - 遇到"403 Permission Denied" = Token过期
 - 解决方案：找伟烨要新Token，更新git remote
+
+### 📌 备份原则
+- **重要内容即时备份**：发现新资源、重大决策等立即commit+push
+- **每日23:30定时备份**：确保不遗漏
 
 ---
 
