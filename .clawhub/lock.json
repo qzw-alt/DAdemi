@@ -12,6 +12,10 @@
     "multi-search-engine": {
       "version": "2.0.1",
       "installedAt": 1772511194420
+    },
+    "github": {
+      "version": "1.0.0",
+      "installedAt": 1772754249293
     }
   }
 }
