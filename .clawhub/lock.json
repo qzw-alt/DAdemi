@@ -16,6 +16,10 @@
     "github": {
       "version": "1.0.0",
       "installedAt": 1772754249293
+    },
+    "cli-anything": {
+      "version": "0.1.0",
+      "installedAt": 1773543062869
     }
   }
 }

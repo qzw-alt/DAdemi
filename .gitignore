@@ -66,3 +66,22 @@ media/
 
 # 澶囦唤鏂囦欢锛堜繚鐣欐渶鏂扮殑锛屽叾浠栧拷鐣ワ級
 backup_*.md
+
+# Workspace结构（保留说明文档）
+# archive/ - 保留，但old-backups中的大文件忽略
+archive/old-backups/*.zip
+archive/old-backups/*.tar.gz
+
+# temp目录（临时文件不备份）
+temp/*
+
+# 日志文件
+*.log
+tavily_usage.log
+
+# 视频测试文件（大文件）
+video-test/
+video-prod-test/
+*.mp4
+*.mov
+*.avi

@@ -11,6 +11,46 @@
 
 ---
 
+## 🆕 2026-03-15 重大更新
+
+### 医疗旅游知识运用系统启动 ✅
+- **启动日**: 2026-03-15
+- **核心成果**: 不只是存储知识，建立可执行的运用系统
+- **资产创建**: 运用计划、执行指南、自动化脚本
+- **状态**: 已就绪，等待实战
+
+### CLI-Anything环境配置完成 ✅
+- FFmpeg 2026-03-12 安装成功
+- V2RayN代理配置（127.0.0.1:10809）
+- Git代理配置完成
+- 测试视频生成成功
+
+### 视频制作工作流建立 ✅
+- 患者故事脚本（Michael膝关节置换）
+- 多平台分发方案（TikTok/IG/FB/Twitter）
+- 去字幕工具4种（检测/去除/模糊/裁剪）
+- 15秒TikTok测试版（纯色背景）
+
+### 技能-场景映射固化 ✅
+```
+搜索 → multi-search-engine（快）
+深度调研 → tavily-search（准）
+文档交付 → feishu-doc
+视频处理 → FFmpeg CLI
+前端设计 → frontend-design
+React构建 → web-artifacts-builder
+```
+
+### 风格偏好确认（伟烨）
+- **色调**: 暖色（橙黄/暖白/米色）
+- **节奏**: TikTok风格（快节奏、强视觉）
+- **时长**: 15-30秒黄金时长
+- **沟通**: 选项式、直接、先做了再说
+
+---
+
+---
+
 ## 🔥 三层记忆系统（2026-03-05 实施）
 
 > 来自伟烨的教导：不是存文件，是真正用起来
@@ -108,7 +148,7 @@
 ## 🔑 API Keys
 
 - **Kimi API**: sk-kimi-Cs9OtGUatopK0qds8T2oThQpG3eapXvEjt5LDqENMjWqNXmT1dyqkajioQUzub8p
-- **Tavily API**: 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（配额有限，谨慎使用！）
+- **Tavily API**: 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（已更新 2026-03-08）
 
 ---
 
@@ -196,4 +236,4 @@
 
 ---
 
-_最后更新: 2026-03-06_
+_最后更新: 2026-03-15_
