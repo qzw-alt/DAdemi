@@ -1,0 +1,12 @@
+{
+  "name": "agent-backup",
+  "version": "1.0.0",
+  "description": "Complete backup and restore solution for OpenClaw Agent",
+  "main": "agent-backup.ps1",
+  "bin": {
+    "agent-backup": "./agent-backup.ps1"
+  },
+  "keywords": ["openclaw", "backup", "restore", "snapshot"],
+  "author": "德米",
+  "license": "MIT"
+}

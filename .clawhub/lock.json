@@ -1,0 +1,25 @@
+{
+  "version": 1,
+  "skills": {
+    "ai-notes-of-video": {
+      "version": "1.0.0",
+      "installedAt": 1772210828581
+    },
+    "ai-news-zh": {
+      "version": "1.0.0",
+      "installedAt": 1772210888396
+    },
+    "multi-search-engine": {
+      "version": "2.0.1",
+      "installedAt": 1772511194420
+    },
+    "github": {
+      "version": "1.0.0",
+      "installedAt": 1772754249293
+    },
+    "cli-anything": {
+      "version": "0.1.0",
+      "installedAt": 1773543062869
+    }
+  }
+}
