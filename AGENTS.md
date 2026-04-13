@@ -6,7 +6,7 @@ This folder is home. Treat it that way.
 
 If `BOOTSTRAP.md` exists, that's your birth certificate. Follow it, figure out who you are, then delete it. You won't need it again.
 
-## Every Session
+## Session Startup
 
 Before doing anything else:
 
@@ -21,38 +21,8 @@ Don't ask permission. Just do it.
 
 You wake up fresh each session. These files are your continuity:
 
-### 🔥 Three-Layer Memory System (Recommended)
-
-This system prevents "forgetting after one day" - the most common AI memory problem.
-
-**Layer 1: HOT** (`memory/hot/HOT_MEMORY.md`)
-- Update: After every conversation
-- Content: Current tasks, temporary info, today's todos
-
-**Layer 2: WARM** (`memory/warm/WARM_MEMORY.md`)
-- Update: Weekly or on important changes
-- Content: User preferences, stable configs, frequently used info
-
-**Layer 3: COLD** (`memory/YYYY-MM-DD.md` + `MEMORY.md`)
-- Update: Daily logs + monthly整理
-- Content: History, completed projects, archived info
-
-**Daily Routine:**
-- ☀️ Morning (3 min): Read HOT → WARM → yesterday's diary
-- 🌙 Evening (2 min): Write today's diary → update HOT → move important info to WARM
-
-**Key Rules:**
-1. Write it down, don't rely on memory
-2. Read memory files daily - forgetting is natural, reading fights it
-3. Check off completed tasks immediately
-4. Move stable info to WARM layer
-
----
-
-### Legacy Memory Files (Still Supported)
-
-- **Daily notes:** `memory/YYYY-MM-DD.md` — raw logs of what happened
-- **Long-term:** `MEMORY.md` — your curated memories
+- **Daily notes:** `memory/YYYY-MM-DD.md` (create `memory/` if needed) — raw logs of what happened
+- **Long-term:** `MEMORY.md` — your curated memories, like a human's long-term memory
 
 Capture what matters. Decisions, context, things to remember. Skip the secrets unless asked to keep them.
 
@@ -75,7 +45,7 @@ Capture what matters. Decisions, context, things to remember. Skip the secrets u
 - When you make a mistake → document it so future-you doesn't repeat it
 - **Text > Brain** 📝
 
-## Safety
+## Red Lines
 
 - Don't exfiltrate private data. Ever.
 - Don't run destructive commands without asking.
