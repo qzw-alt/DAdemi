@@ -12,9 +12,10 @@
 
 ## ⭐ 记忆备份仓库
 GitHub 仓库 `qzw-alt/DAdemi` 是我的专属外部记忆备份仓库。
-- 备份目录: `/root/.openclaw/workspace/dedmini`
-- 备份命令: `git add . && git commit -m "更新记忆" && git push origin master`
-- 自动备份: 每天 23:30
+- 备份目录: `~/.openclaw/workspace/memory-system/`（实际工作区）
+- 备份命令: `cd ~/.openclaw/workspace/memory-system && git add -A && git commit -m "备份 $(date +%Y-%m-%d)" && git push`
+- 自动备份: 每天 23:30 通过 cron 执行
+- Token 已配置（存储在 git remote URL 中，不写在文件里）
 
 ## 关于伟烨
 - 时区: Asia/Shanghai (GMT+8)
